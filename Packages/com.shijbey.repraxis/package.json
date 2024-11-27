@@ -1,0 +1,17 @@
+{
+    "name": "com.shijbey.repraxis",
+    "displayName": "RePraxis for Unity",
+    "version": "1.4.0",
+    "description": "Unity integration for open source RePraxis logic database.",
+    "unity": "2022.3",
+    "keywords": [
+        "repraxis",
+        "database",
+        "logic database",
+        "simulation"
+    ],
+    "author": {
+        "name": "Shi Johnson-Bey",
+        "url": "https://shijbey.github.io"
+    }
+}
