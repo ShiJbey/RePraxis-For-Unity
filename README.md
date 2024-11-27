@@ -9,6 +9,7 @@
     - [Installation](#installation)
     - [Creating a Database Manager](#creating-a-database-manager)
   - [Samples](#samples)
+    - [Downloading the Samples](#downloading-the-samples)
     - [A Simple Relationship System](#a-simple-relationship-system)
       - [Syncing information with listeners](#syncing-information-with-listeners)
       - [Finding Relationships](#finding-relationships)
@@ -70,6 +71,10 @@ This package contains the code for creating databases, and it comes with default
 8. Run the Script and read the output in the Unity console. You should see "True" printed.
 
 ## Samples
+
+### Downloading the Samples
+
+The easiest way to get started is to clone or download this repository and open the project in Unity. This package is developed using Unity 2022.3.
 
 ### A Simple Relationship System
 
